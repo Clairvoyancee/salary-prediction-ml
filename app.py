@@ -1,16 +1,3 @@
-"""
-app.py
-------
-Flask web app that serves the trained Salary Prediction model.
-
-Run locally:
-    python app.py
-
-Then open http://127.0.0.1:5000 in your browser.
-
-For deployment (Render / Heroku / Railway etc.), a Procfile and
-requirements.txt are included in this project.
-"""
 
 import os
 import joblib
